@@ -581,8 +581,8 @@ img {
 }
 
 .bg-overlay::after {
-    background: linear-gradient(-47deg, #000000 0%, #f05323c2 100%);
-    opacity: 0.94;
+    background: linear-gradient(-47deg,#ffffff  0%,  #afafaf 100%);
+    /* opacity: 0.94; */
     z-index: -1;
 }
 
@@ -684,7 +684,7 @@ img {
 }
 
 .blog .breadcrumb-area {
-    background: rgba(0, 0, 0, 0) url("../img/banner/b2.png") no-repeat scroll center center / cover;
+    background: rgba(0, 0, 0, 0) url("../img/banner/b3.png") no-repeat scroll center center / cover;
 }
 
 .inner .welcome-area {
