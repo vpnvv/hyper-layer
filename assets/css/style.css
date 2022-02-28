@@ -2211,3 +2211,12 @@ img {
     font-weight: 600;
     font-size: 15px;
 }
+
+::-webkit-scrollbar{
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background: #f05423;
+    border-radius: 20px;
+  }
