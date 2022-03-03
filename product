@@ -1,0 +1,203 @@
+graphine
+
+
+<div class="service-text pt-4 pt-lg-0">
+                        <h3 class="promo-text mb-4" style="font-size: 2rem;">Product Details</h3>
+                        <!-- Service List -->
+                        <ul class="service-list">
+                            <!-- Single Service -->
+                            <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x"  style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Durability - 18 months (handwash only)</p>
+                                </div>
+                            </li>
+                            <!-- Single Service -->
+                            <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Flashing time - 2-3 mins</p>
+                                </div>
+                            </li>
+                            <!-- Single Service -->
+                            <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Drying time between layers - 1 hr</p>
+                                </div>
+                            </li>
+                            <!-- Single Service -->
+                            <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Drying time until water contact - 24-48 hrs</p>
+                                </div>
+                            </li>
+                             <!-- Single Service -->
+                             <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Hardness Improvement (depends on the
+                                        clear coat) - Upto 2 hrs</p>
+                                </div>
+                            </li>
+                             <!-- Single Service -->
+                             <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Waterspot Vulnerability - Medium</p>
+                                </div>
+                            </li>
+                             <!-- Single Service -->
+                             <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Coating can wear out with polishing and if
+                                        not taken care for.</p>
+                                </div>
+                            </li>
+                             <!-- Single Service -->
+                             <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Gloss - High | Smoothness - Medium</p>
+                                </div>
+                            </li>
+                             <!-- Single Service -->
+                             <li class="single-service media py-2">
+                                <div class="feature-icon text-primary align-self-center pr-4">
+                                    <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+                                </div>
+                                <div class="service-text media-body">
+                                    <p>Water Contact Angle - 90° - 110°</p>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+
+
+ceramic
+
+
+
+<div class="service-text pt-4 pt-lg-0">
+    <h3 class="promo-text mb-4" style="font-size: 2rem;">Product Details</h3>
+    <!-- Service List -->
+    <ul class="service-list">
+        <!-- Single Service -->
+        <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x"  style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Durability - 24 months (handwash only)</p>
+            </div>
+        </li>
+        <!-- Single Service -->
+        <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Flashing time - 2-3 mins</p>
+            </div>
+        </li>
+        <!-- Single Service -->
+        <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Drying time between layers - 1 hr</p>
+            </div>
+        </li>
+        <!-- Single Service -->
+        <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Drying time until water contact - 24-48 hrs</p>
+            </div>
+        </li>
+         <!-- Single Service -->
+         <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Hardness Improvement (depends on the
+                    clear coat) - Upto 2 hrs</p>
+            </div>
+        </li>
+         <!-- Single Service -->
+         <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Waterspot Vulnerability - Medium</p>
+            </div>
+        </li>
+         <!-- Single Service -->
+         <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Coating can wear out with polishing and if
+                    not taken care for.</p>
+            </div>
+        </li>
+         <!-- Single Service -->
+         <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Gloss - High | Smoothness - High</p>
+            </div>
+        </li>
+         <!-- Single Service -->
+         <li class="single-service media py-2">
+            <div class="feature-icon text-primary align-self-center pr-4">
+                <span><i class="fas fa-check-circle fa-2x" style="color: #f05423;"></i></span>
+            </div>
+            <div class="service-text media-body">
+                <p>Water Contact Angle - 110° - 125°</p>
+            </div>
+        </li>
+    </ul>
+</div>
+
+aboutus
+
+
+<p class="text-justify pt-3 pb-2">
+    Hyperlayer was established in 2019 with an idea of developing a new technology for the detailing industry and we are brought up with one of the strongest and most versatile material on earth called the Graphene technology, developed to protect and maintain vehicles and machines.
+</p>
+
+<p class="text-justify pt-2 pb-2">
+    Using nanotechnology, we have achieved exactly the same. Designing on a molecular level makes it possible to enhance and change the properties of our surface protection products in a way which wasn't possible with the technology being used all this while in the said category.
+</p>
+
+<p class="text-justify pt-2 pb-2">
+    In 2020 we launched our first few products under protection and maintenance series. These were developed in the past 2 years with the expertise of some of the elite chemists in the field. By shifting our focus on using modern and sustainable raw materials has been a salient feature to achieve the over the top functioning and quality in our products.
+</p>
