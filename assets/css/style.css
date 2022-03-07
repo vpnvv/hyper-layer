@@ -2220,3 +2220,8 @@ img {
     background: #f05423;
     border-radius: 20px;
   }
+
+.against-icon{
+    width: 100px;
+    height: auto;
+}
